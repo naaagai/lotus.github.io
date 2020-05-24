@@ -1,0 +1,59 @@
+@media(max-width:1000px)  {
+  .click-top{
+    background-color: gold;
+    width: 60%;
+  }
+  .click-top a{
+    margin: 0;
+    display: block;
+    width: 100%;
+  }
+  .click-bottom{
+    width: 60%;
+    background-color: gold;
+  }
+  .click-bottom a{
+    margin: 0;
+    font-size: 1.5rem;
+    width: 100%;
+    display: block;
+  }
+
+  .staff{
+    flex: none;
+    flex-direction: column;
+  }
+  .staff-image{
+    width: 100%;
+  }
+  .text{
+    width: 100%;
+  }
+  .gallery-image{
+    width: 100%;
+
+  }
+  .gallery{
+    flex-direction: column-reverse;
+  }
+  .AB{
+    position: static;
+    box-shadow: none;
+  }
+  .calendars{
+    flex-direction: column-reverse;
+  }
+  .sales{
+    width: 100%;
+  }
+  .sales img{
+    width: 30%;
+  }
+  .sales-right{
+    width: 100%;
+  }
+  .footer-list ul{
+    display: flex;
+    flex-direction: column;
+  }
+}
