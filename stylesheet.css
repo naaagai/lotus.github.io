@@ -270,6 +270,7 @@ iframe{
 .sales table{
   text-align: left;
   border-collapse: collapse;
+  font-size:0.7rem;
 }
 .sales th{
   padding: 10px 20px;
